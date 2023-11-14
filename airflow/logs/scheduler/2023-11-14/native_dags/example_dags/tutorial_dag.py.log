@@ -1,0 +1,190 @@
+[2023-11-14T07:03:33.736-0300] {processor.py:157} INFO - Started process (PID=284775) to work on /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T07:03:33.737-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-14T07:03:33.737-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:03:33.737-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T07:03:33.741-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T07:03:33.748-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:03:33.748-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T07:03:33.758-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:03:33.758-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-14T07:03:33.780-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.046 seconds
+[2023-11-14T07:57:28.775-0300] {processor.py:157} INFO - Started process (PID=287226) to work on /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T07:57:28.779-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-14T07:57:28.780-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:57:28.779-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T07:57:28.785-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T07:57:28.793-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:57:28.793-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T07:57:28.808-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:57:28.808-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-14T07:57:28.830-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.058 seconds
+[2023-11-14T07:58:15.265-0300] {processor.py:157} INFO - Started process (PID=287411) to work on /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T07:58:15.270-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-14T07:58:15.273-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:58:15.272-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T07:58:15.285-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T07:58:15.308-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:58:15.307-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T07:58:15.318-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:58:15.318-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-14T07:58:15.336-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.077 seconds
+[2023-11-14T07:59:00.682-0300] {processor.py:157} INFO - Started process (PID=287557) to work on /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T07:59:00.683-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-14T07:59:00.684-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:59:00.683-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T07:59:00.689-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T07:59:00.706-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:59:00.705-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T07:59:00.716-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:59:00.716-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-14T07:59:00.734-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.056 seconds
+[2023-11-14T07:59:48.223-0300] {processor.py:157} INFO - Started process (PID=287655) to work on /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T07:59:48.227-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-14T07:59:48.228-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:59:48.228-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T07:59:48.232-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T07:59:48.248-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:59:48.248-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T07:59:48.258-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:59:48.258-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-14T07:59:48.276-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.056 seconds
+[2023-11-14T08:00:38.896-0300] {processor.py:157} INFO - Started process (PID=287802) to work on /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:00:38.901-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-14T08:00:38.903-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:00:38.902-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:00:38.920-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:00:38.945-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:00:38.945-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:00:38.956-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:00:38.956-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-14T08:00:38.976-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.083 seconds
+[2023-11-14T08:01:24.635-0300] {processor.py:157} INFO - Started process (PID=288039) to work on /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:01:24.638-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-14T08:01:24.639-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:01:24.639-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:01:24.644-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:01:24.660-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:01:24.660-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:01:24.670-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:01:24.670-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-14T08:01:24.693-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.060 seconds
+[2023-11-14T08:02:14.379-0300] {processor.py:157} INFO - Started process (PID=288144) to work on /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:02:14.384-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-14T08:02:14.386-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:02:14.385-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:02:14.398-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:02:14.421-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:02:14.421-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:02:14.431-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:02:14.431-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-14T08:02:14.449-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.077 seconds
+[2023-11-14T08:03:03.816-0300] {processor.py:157} INFO - Started process (PID=288336) to work on /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:03:03.822-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-14T08:03:03.825-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:03:03.824-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:03:03.836-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:03:03.855-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:03:03.855-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:03:03.867-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:03:03.867-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-14T08:03:03.888-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.082 seconds
+[2023-11-14T08:03:51.427-0300] {processor.py:157} INFO - Started process (PID=288731) to work on /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:03:51.431-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-14T08:03:51.433-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:03:51.432-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:03:51.444-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:03:51.467-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:03:51.466-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:03:51.477-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:03:51.477-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-14T08:03:51.495-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.074 seconds
+[2023-11-14T08:04:42.947-0300] {processor.py:157} INFO - Started process (PID=288958) to work on /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:04:42.951-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-14T08:04:42.951-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:04:42.951-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:04:42.957-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:04:42.970-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:04:42.970-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:04:42.979-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:04:42.979-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-14T08:04:42.996-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.053 seconds
+[2023-11-14T08:05:30.443-0300] {processor.py:157} INFO - Started process (PID=289052) to work on /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:05:30.448-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-14T08:05:30.451-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:05:30.450-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:05:30.464-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:05:30.483-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:05:30.483-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:05:30.494-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:05:30.493-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-14T08:05:30.523-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.087 seconds
+[2023-11-14T08:06:19.302-0300] {processor.py:157} INFO - Started process (PID=289198) to work on /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:06:19.303-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-14T08:06:19.304-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:06:19.304-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:06:19.309-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:06:19.327-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:06:19.327-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:06:19.339-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:06:19.338-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-14T08:06:19.355-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.055 seconds
+[2023-11-14T08:07:08.908-0300] {processor.py:157} INFO - Started process (PID=289311) to work on /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:07:08.912-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-14T08:07:08.913-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:07:08.913-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:07:08.919-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:07:08.940-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:07:08.939-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:07:08.955-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:07:08.954-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-14T08:07:08.976-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.073 seconds
+[2023-11-14T08:07:56.276-0300] {processor.py:157} INFO - Started process (PID=289551) to work on /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:07:56.280-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-14T08:07:56.280-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:07:56.280-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:07:56.284-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:07:56.297-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:07:56.297-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:07:56.307-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:07:56.306-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-14T08:07:56.323-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.049 seconds
+[2023-11-14T08:08:22.571-0300] {processor.py:157} INFO - Started process (PID=289722) to work on /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:08:22.572-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-14T08:08:22.573-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:08:22.573-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:08:22.583-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:08:22.594-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:08:22.594-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:08:22.607-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:08:22.607-0300] {dag.py:2963} INFO - Creating ORM DAG for tutorial_dag
+[2023-11-14T08:08:22.607-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:08:22.607-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-14T08:08:22.636-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.070 seconds
+[2023-11-14T08:10:02.856-0300] {processor.py:157} INFO - Started process (PID=290524) to work on /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:10:02.861-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-14T08:10:02.863-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:10:02.862-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:10:02.875-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:10:02.886-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:10:02.885-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:10:02.899-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:10:02.899-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-14T08:10:02.931-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.082 seconds
+[2023-11-14T08:10:52.142-0300] {processor.py:157} INFO - Started process (PID=291100) to work on /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:10:52.147-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-14T08:10:52.149-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:10:52.148-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:10:52.161-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:10:52.183-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:10:52.182-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:10:52.192-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:10:52.192-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-14T08:10:52.210-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.070 seconds
+[2023-11-14T08:11:38.494-0300] {processor.py:157} INFO - Started process (PID=291228) to work on /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:11:38.499-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-14T08:11:38.501-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:11:38.500-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:11:38.514-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:11:38.542-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:11:38.542-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:11:38.552-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:11:38.552-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-14T08:11:38.570-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.078 seconds
+[2023-11-14T08:12:23.621-0300] {processor.py:157} INFO - Started process (PID=291406) to work on /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:12:23.625-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-14T08:12:23.626-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:12:23.626-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:12:23.631-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:12:23.638-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:12:23.637-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:12:23.649-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:12:23.649-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-14T08:12:23.678-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.059 seconds
+[2023-11-14T08:13:10.165-0300] {processor.py:157} INFO - Started process (PID=291594) to work on /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:13:10.169-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-14T08:13:10.169-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:13:10.169-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:13:10.173-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:13:10.187-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:13:10.187-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:13:10.196-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:13:10.196-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-14T08:13:10.215-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.052 seconds
+[2023-11-14T08:13:56.183-0300] {processor.py:157} INFO - Started process (PID=291681) to work on /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:13:56.187-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-14T08:13:56.188-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:13:56.188-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:13:56.193-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:13:56.207-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:13:56.207-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:13:56.217-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:13:56.217-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-14T08:13:56.245-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.069 seconds
+[2023-11-14T08:14:44.127-0300] {processor.py:157} INFO - Started process (PID=291842) to work on /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:14:44.132-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-14T08:14:44.133-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:14:44.133-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:14:44.146-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:14:44.171-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:14:44.171-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:14:44.181-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:14:44.181-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-14T08:14:44.209-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.086 seconds
+[2023-11-14T08:15:31.667-0300] {processor.py:157} INFO - Started process (PID=291924) to work on /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:15:31.671-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-14T08:15:31.672-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:15:31.672-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:15:31.684-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:15:31.707-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:15:31.707-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:15:31.717-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:15:31.717-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-14T08:15:31.736-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.071 seconds
+[2023-11-14T08:16:19.068-0300] {processor.py:157} INFO - Started process (PID=292010) to work on /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:16:19.072-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-14T08:16:19.073-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:16:19.073-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:16:19.078-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:16:19.091-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:16:19.090-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:16:19.100-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:16:19.099-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-14T08:16:19.117-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.051 seconds
+[2023-11-14T08:17:09.277-0300] {processor.py:157} INFO - Started process (PID=292097) to work on /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:17:09.278-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-14T08:17:09.279-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:17:09.278-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:17:09.285-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:17:09.305-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:17:09.305-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:17:09.316-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:17:09.316-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-14T08:17:09.334-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.060 seconds
+[2023-11-14T08:17:58.584-0300] {processor.py:157} INFO - Started process (PID=292202) to work on /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:17:58.588-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2023-11-14T08:17:58.591-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:17:58.590-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:17:58.607-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2023-11-14T08:17:58.631-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:17:58.631-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:17:58.643-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:17:58.643-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2023-11-14T08:17:58.667-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/.venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.085 seconds

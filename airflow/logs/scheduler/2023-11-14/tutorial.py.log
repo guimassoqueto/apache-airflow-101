@@ -1,0 +1,260 @@
+[2023-11-14T07:55:31.552-0300] {processor.py:157} INFO - Started process (PID=286662) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T07:55:31.552-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T07:55:31.553-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:55:31.553-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T07:55:31.562-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T07:55:31.567-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:55:31.566-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T07:55:31.580-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:55:31.579-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T10:55:31.579761+00:00, run_after=2023-11-14T10:55:31.579761+00:00
+[2023-11-14T07:55:31.595-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.046 seconds
+[2023-11-14T07:57:10.126-0300] {processor.py:157} INFO - Started process (PID=287131) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T07:57:10.127-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T07:57:10.127-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:57:10.127-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T07:57:10.136-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T07:57:10.141-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:57:10.141-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T07:57:10.157-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:57:10.157-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T10:57:10.157368+00:00, run_after=2023-11-14T10:57:10.157368+00:00
+[2023-11-14T07:57:10.172-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.049 seconds
+[2023-11-14T07:57:55.388-0300] {processor.py:157} INFO - Started process (PID=287323) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T07:57:55.392-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T07:57:55.393-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:57:55.392-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T07:57:55.401-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T07:57:55.420-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:57:55.420-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T07:57:55.438-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:57:55.438-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T10:57:55.438001+00:00, run_after=2023-11-14T10:57:55.438001+00:00
+[2023-11-14T07:57:55.464-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.079 seconds
+[2023-11-14T07:58:28.321-0300] {processor.py:157} INFO - Started process (PID=287447) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T07:58:28.322-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T07:58:28.323-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:58:28.323-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T07:58:28.332-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T07:58:28.341-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:58:28.341-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T07:58:28.365-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:58:28.365-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T10:58:28.365219+00:00, run_after=2023-11-14T10:58:28.365219+00:00
+[2023-11-14T07:58:28.384-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.068 seconds
+[2023-11-14T07:59:13.875-0300] {processor.py:157} INFO - Started process (PID=287582) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T07:59:13.879-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T07:59:13.881-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:59:13.880-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T07:59:13.894-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T07:59:13.969-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:59:13.969-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T07:59:13.981-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:59:13.980-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T10:59:13.980753+00:00, run_after=2023-11-14T10:59:13.980753+00:00
+[2023-11-14T07:59:14.009-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.139 seconds
+[2023-11-14T07:59:49.960-0300] {processor.py:157} INFO - Started process (PID=287658) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T07:59:49.964-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T07:59:49.965-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:59:49.965-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T07:59:49.976-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T07:59:49.995-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:59:49.995-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T07:59:50.016-0300] {logging_mixin.py:154} INFO - [2023-11-14T07:59:50.016-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T10:59:50.016061+00:00, run_after=2023-11-14T10:59:50.016061+00:00
+[2023-11-14T07:59:50.041-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.087 seconds
+[2023-11-14T08:00:27.336-0300] {processor.py:157} INFO - Started process (PID=287750) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:00:27.337-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:00:27.338-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:00:27.337-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:00:27.346-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:00:27.363-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:00:27.363-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:00:27.380-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:00:27.380-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:00:27.380129+00:00, run_after=2023-11-14T11:00:27.380129+00:00
+[2023-11-14T08:00:27.396-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.063 seconds
+[2023-11-14T08:01:00.205-0300] {processor.py:157} INFO - Started process (PID=287881) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:01:00.209-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:01:00.209-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:01:00.209-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:01:00.215-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:01:00.222-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:01:00.222-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:01:00.241-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:01:00.241-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:01:00.241319+00:00, run_after=2023-11-14T11:01:00.241319+00:00
+[2023-11-14T08:01:00.259-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.056 seconds
+[2023-11-14T08:01:30.639-0300] {processor.py:157} INFO - Started process (PID=288045) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:01:30.643-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:01:30.644-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:01:30.643-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:01:30.649-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:01:30.727-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:01:30.727-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:01:30.738-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:01:30.738-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:01:30.738197+00:00, run_after=2023-11-14T11:01:30.738197+00:00
+[2023-11-14T08:01:30.759-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.122 seconds
+[2023-11-14T08:02:04.514-0300] {processor.py:157} INFO - Started process (PID=288094) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:02:04.518-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:02:04.519-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:02:04.518-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:02:04.529-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:02:04.548-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:02:04.548-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:02:04.568-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:02:04.568-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:02:04.567889+00:00, run_after=2023-11-14T11:02:04.567889+00:00
+[2023-11-14T08:02:04.587-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.078 seconds
+[2023-11-14T08:02:35.437-0300] {processor.py:157} INFO - Started process (PID=288175) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:02:35.439-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:02:35.440-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:02:35.439-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:02:35.446-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:02:35.460-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:02:35.460-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:02:35.477-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:02:35.477-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:02:35.477560+00:00, run_after=2023-11-14T11:02:35.477560+00:00
+[2023-11-14T08:02:35.494-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.060 seconds
+[2023-11-14T08:03:08.943-0300] {processor.py:157} INFO - Started process (PID=288373) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:03:08.947-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:03:08.949-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:03:08.949-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:03:08.968-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:03:08.984-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:03:08.983-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:03:09.005-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:03:09.005-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:03:09.005188+00:00, run_after=2023-11-14T11:03:09.005188+00:00
+[2023-11-14T08:03:09.035-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.095 seconds
+[2023-11-14T08:03:39.995-0300] {processor.py:157} INFO - Started process (PID=288407) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:03:39.997-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:03:40.000-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:03:39.999-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:03:40.019-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:03:40.104-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:03:40.104-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:03:40.116-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:03:40.116-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:03:40.116110+00:00, run_after=2023-11-14T11:03:40.116110+00:00
+[2023-11-14T08:03:40.133-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.146 seconds
+[2023-11-14T08:04:13.674-0300] {processor.py:157} INFO - Started process (PID=288841) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:04:13.676-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:04:13.679-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:04:13.678-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:04:13.694-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:04:13.711-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:04:13.711-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:04:13.727-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:04:13.727-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:04:13.727532+00:00, run_after=2023-11-14T11:04:13.727532+00:00
+[2023-11-14T08:04:13.745-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.078 seconds
+[2023-11-14T08:04:47.633-0300] {processor.py:157} INFO - Started process (PID=288966) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:04:47.637-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:04:47.638-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:04:47.637-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:04:47.645-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:04:47.663-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:04:47.663-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:04:47.681-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:04:47.681-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:04:47.681141+00:00, run_after=2023-11-14T11:04:47.681141+00:00
+[2023-11-14T08:04:47.698-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.067 seconds
+[2023-11-14T08:05:20.683-0300] {processor.py:157} INFO - Started process (PID=289031) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:05:20.686-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:05:20.687-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:05:20.687-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:05:20.695-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:05:20.704-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:05:20.704-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:05:20.723-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:05:20.723-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:05:20.723263+00:00, run_after=2023-11-14T11:05:20.723263+00:00
+[2023-11-14T08:05:20.745-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.067 seconds
+[2023-11-14T08:05:53.053-0300] {processor.py:157} INFO - Started process (PID=289111) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:05:53.058-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:05:53.060-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:05:53.059-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:05:53.076-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:05:53.150-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:05:53.149-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:05:53.161-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:05:53.161-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:05:53.161648+00:00, run_after=2023-11-14T11:05:53.161648+00:00
+[2023-11-14T08:05:53.179-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.132 seconds
+[2023-11-14T08:06:25.370-0300] {processor.py:157} INFO - Started process (PID=289207) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:06:25.375-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:06:25.377-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:06:25.376-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:06:25.395-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:06:25.414-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:06:25.414-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:06:25.430-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:06:25.430-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:06:25.430570+00:00, run_after=2023-11-14T11:06:25.430570+00:00
+[2023-11-14T08:06:25.448-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.085 seconds
+[2023-11-14T08:06:57.669-0300] {processor.py:157} INFO - Started process (PID=289283) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:06:57.674-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:06:57.676-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:06:57.675-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:06:57.694-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:06:57.704-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:06:57.704-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:06:57.723-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:06:57.723-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:06:57.722982+00:00, run_after=2023-11-14T11:06:57.722982+00:00
+[2023-11-14T08:06:57.741-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.080 seconds
+[2023-11-14T08:07:29.088-0300] {processor.py:157} INFO - Started process (PID=289419) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:07:29.092-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:07:29.093-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:07:29.093-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:07:29.099-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:07:29.166-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:07:29.166-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:07:29.181-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:07:29.181-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:07:29.181428+00:00, run_after=2023-11-14T11:07:29.181428+00:00
+[2023-11-14T08:07:29.202-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.118 seconds
+[2023-11-14T08:08:03.811-0300] {processor.py:157} INFO - Started process (PID=289607) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:08:03.812-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:08:03.813-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:08:03.813-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:08:03.822-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:08:03.830-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:08:03.830-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:08:03.840-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:08:03.839-0300] {dag.py:2963} INFO - Creating ORM DAG for tutorial
+[2023-11-14T08:08:03.852-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:08:03.852-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:08:03.852012+00:00, run_after=2023-11-14T11:08:03.852012+00:00
+[2023-11-14T08:08:03.869-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.062 seconds
+[2023-11-14T08:08:49.107-0300] {processor.py:157} INFO - Started process (PID=289924) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:08:49.111-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:08:49.111-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:08:49.111-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:08:49.116-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:08:49.128-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:08:49.128-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:08:49.143-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:08:49.143-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:08:49.143088+00:00, run_after=2023-11-14T11:08:49.143088+00:00
+[2023-11-14T08:08:49.160-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.055 seconds
+[2023-11-14T08:09:41.250-0300] {processor.py:157} INFO - Started process (PID=290173) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:09:41.251-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:09:41.252-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:09:41.252-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:09:41.262-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:09:41.269-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:09:41.269-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:09:41.288-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:09:41.288-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:09:41.288517+00:00, run_after=2023-11-14T11:09:41.288517+00:00
+[2023-11-14T08:09:41.304-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.057 seconds
+[2023-11-14T08:10:31.776-0300] {processor.py:157} INFO - Started process (PID=291016) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:10:31.780-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:10:31.781-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:10:31.781-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:10:31.790-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:10:31.806-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:10:31.805-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:10:31.824-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:10:31.824-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:10:31.823889+00:00, run_after=2023-11-14T11:10:31.823889+00:00
+[2023-11-14T08:10:31.843-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.071 seconds
+[2023-11-14T08:11:08.754-0300] {processor.py:157} INFO - Started process (PID=291141) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:11:08.758-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:11:08.759-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:11:08.758-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:11:08.766-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:11:08.775-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:11:08.775-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:11:08.798-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:11:08.798-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:11:08.798383+00:00, run_after=2023-11-14T11:11:08.798383+00:00
+[2023-11-14T08:11:08.817-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.067 seconds
+[2023-11-14T08:11:41.331-0300] {processor.py:157} INFO - Started process (PID=291243) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:11:41.417-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:11:41.418-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:11:41.418-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:11:41.423-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:11:41.493-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:11:41.493-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:11:41.504-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:11:41.504-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:11:41.504648+00:00, run_after=2023-11-14T11:11:41.504648+00:00
+[2023-11-14T08:11:41.519-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.190 seconds
+[2023-11-14T08:12:26.656-0300] {processor.py:157} INFO - Started process (PID=291460) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:12:26.660-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:12:26.662-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:12:26.661-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:12:26.674-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:12:26.688-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:12:26.688-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:12:26.711-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:12:26.711-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:12:26.711080+00:00, run_after=2023-11-14T11:12:26.711080+00:00
+[2023-11-14T08:12:26.729-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.078 seconds
+[2023-11-14T08:12:57.580-0300] {processor.py:157} INFO - Started process (PID=291574) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:12:57.584-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:12:57.585-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:12:57.585-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:12:57.592-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:12:57.609-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:12:57.609-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:12:57.627-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:12:57.627-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:12:57.626948+00:00, run_after=2023-11-14T11:12:57.626948+00:00
+[2023-11-14T08:12:57.645-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.068 seconds
+[2023-11-14T08:13:28.611-0300] {processor.py:157} INFO - Started process (PID=291627) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:13:28.611-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:13:28.612-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:13:28.612-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:13:28.618-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:13:28.624-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:13:28.624-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:13:28.642-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:13:28.642-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:13:28.641856+00:00, run_after=2023-11-14T11:13:28.641856+00:00
+[2023-11-14T08:13:28.658-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.050 seconds
+[2023-11-14T08:13:58.930-0300] {processor.py:157} INFO - Started process (PID=291688) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:13:58.931-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:13:58.932-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:13:58.931-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:13:58.937-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:13:59.004-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:13:59.003-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:13:59.015-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:13:59.015-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:13:59.014906+00:00, run_after=2023-11-14T11:13:59.014906+00:00
+[2023-11-14T08:13:59.031-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.103 seconds
+[2023-11-14T08:14:32.722-0300] {processor.py:157} INFO - Started process (PID=291772) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:14:32.726-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:14:32.726-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:14:32.726-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:14:32.733-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:14:32.749-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:14:32.749-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:14:32.768-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:14:32.768-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:14:32.768118+00:00, run_after=2023-11-14T11:14:32.768118+00:00
+[2023-11-14T08:14:32.785-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.065 seconds
+[2023-11-14T08:15:04.317-0300] {processor.py:157} INFO - Started process (PID=291879) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:15:04.321-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:15:04.323-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:15:04.322-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:15:04.341-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:15:04.354-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:15:04.353-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:15:04.373-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:15:04.373-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:15:04.373470+00:00, run_after=2023-11-14T11:15:04.373470+00:00
+[2023-11-14T08:15:04.391-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.077 seconds
+[2023-11-14T08:15:36.243-0300] {processor.py:157} INFO - Started process (PID=291931) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:15:36.247-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:15:36.247-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:15:36.247-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:15:36.253-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:15:36.326-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:15:36.325-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:15:36.337-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:15:36.337-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:15:36.337664+00:00, run_after=2023-11-14T11:15:36.337664+00:00
+[2023-11-14T08:15:36.355-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.114 seconds
+[2023-11-14T08:16:07.630-0300] {processor.py:157} INFO - Started process (PID=291992) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:16:07.634-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:16:07.635-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:16:07.635-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:16:07.651-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:16:07.675-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:16:07.675-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:16:07.692-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:16:07.692-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:16:07.692433+00:00, run_after=2023-11-14T11:16:07.692433+00:00
+[2023-11-14T08:16:07.719-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.092 seconds
+[2023-11-14T08:16:40.802-0300] {processor.py:157} INFO - Started process (PID=292046) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:16:40.804-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:16:40.804-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:16:40.804-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:16:40.810-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:16:40.816-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:16:40.815-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:16:40.832-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:16:40.832-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:16:40.832201+00:00, run_after=2023-11-14T11:16:40.832201+00:00
+[2023-11-14T08:16:40.849-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.049 seconds
+[2023-11-14T08:17:13.869-0300] {processor.py:157} INFO - Started process (PID=292104) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:17:13.873-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:17:13.875-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:17:13.874-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:17:13.889-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:17:13.969-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:17:13.969-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:17:13.981-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:17:13.980-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:17:13.980745+00:00, run_after=2023-11-14T11:17:13.980745+00:00
+[2023-11-14T08:17:14.006-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.139 seconds
+[2023-11-14T08:17:46.191-0300] {processor.py:157} INFO - Started process (PID=292174) to work on /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:17:46.195-0300] {processor.py:829} INFO - Processing file /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py for tasks to queue
+[2023-11-14T08:17:46.196-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:17:46.195-0300] {dagbag.py:536} INFO - Filling up the DagBag from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:17:46.203-0300] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py
+[2023-11-14T08:17:46.221-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:17:46.221-0300] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-14T08:17:46.241-0300] {logging_mixin.py:154} INFO - [2023-11-14T08:17:46.240-0300] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2023-11-13T11:17:46.240725+00:00, run_after=2023-11-14T11:17:46.240725+00:00
+[2023-11-14T08:17:46.259-0300] {processor.py:179} INFO - Processing /home/gmassoqueto/repos/apache-airflow-101/airflow/dags/tutorial.py took 0.070 seconds
