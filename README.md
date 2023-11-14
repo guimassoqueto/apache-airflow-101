@@ -21,7 +21,7 @@ Pip (do NOT use Poetry or another dependecy manager, it must be pip)
    source .venv/bin/activate
    ```
 
-4. Set the execution priviledges and install the airflow dependencies from the [airflow.sh file](./airflow.sh)
+4. [1 Time Only] Set the execution priviledges and install the airflow dependencies from the [airflow.sh file](./airflow.sh)
     ```shell
     sudo chmod +x airflow.sh && ./1-set-dependencies.sh
     ```
